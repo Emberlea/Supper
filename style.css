@@ -1,0 +1,19 @@
+.body-background{
+    background-image:url(Superhero-Featured-Cropped-Cropped-e1577681032672.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#mc{
+    border-style:ridge;
+    background-color:white;
+}
+h2{
+    border-radius: 10px;
+	width: 500px;
+	padding: 5px;
+}
+h1{
+    border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+}
